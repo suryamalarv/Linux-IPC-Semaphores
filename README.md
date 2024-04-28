@@ -117,9 +117,13 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
+
+
 ![OUTPUT](1.png)
 
 $ ipcs
+
+
 ![OUTPUT](2.png)
 
 
